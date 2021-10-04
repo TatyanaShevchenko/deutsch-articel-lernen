@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deutsch-articel-lernen/static/css/main.34f63a3d.chunk.css",
+    "main.js": "/deutsch-articel-lernen/static/js/main.a788b941.chunk.js",
+    "main.js.map": "/deutsch-articel-lernen/static/js/main.a788b941.chunk.js.map",
+    "runtime-main.js": "/deutsch-articel-lernen/static/js/runtime-main.9bf1afc0.js",
+    "runtime-main.js.map": "/deutsch-articel-lernen/static/js/runtime-main.9bf1afc0.js.map",
+    "static/js/2.3b477cb5.chunk.js": "/deutsch-articel-lernen/static/js/2.3b477cb5.chunk.js",
+    "static/js/2.3b477cb5.chunk.js.map": "/deutsch-articel-lernen/static/js/2.3b477cb5.chunk.js.map",
+    "static/js/3.a778ddcf.chunk.js": "/deutsch-articel-lernen/static/js/3.a778ddcf.chunk.js",
+    "static/js/3.a778ddcf.chunk.js.map": "/deutsch-articel-lernen/static/js/3.a778ddcf.chunk.js.map",
+    "index.html": "/deutsch-articel-lernen/index.html",
+    "static/css/main.34f63a3d.chunk.css.map": "/deutsch-articel-lernen/static/css/main.34f63a3d.chunk.css.map",
+    "static/js/2.3b477cb5.chunk.js.LICENSE.txt": "/deutsch-articel-lernen/static/js/2.3b477cb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bf1afc0.js",
+    "static/js/2.3b477cb5.chunk.js",
+    "static/css/main.34f63a3d.chunk.css",
+    "static/js/main.a788b941.chunk.js"
+  ]
+}
