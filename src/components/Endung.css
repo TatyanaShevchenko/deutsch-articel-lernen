@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.endung__wrapper{
+    font-family: 'Poppins', sans-serif;
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+
+.endung__title{
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 24px;
+}
+
+.endung__word{
+    font-size: 48px;
+    line-height: 72px;
+    margin-bottom: 48px;
+}
+
+.endung__variants{
+    display: flex;   
+    margin-bottom: 30px;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.endung__variant{
+    font-size: 16px;
+    width: 120px;
+    height: 60px;
+    border-radius: 10px;
+    transition: all 0.5s;
+    color: #fff;
+    cursor: pointer;
+}
+
+.endung__variant_mannlich{
+    background-color: #45aaf2;
+}
+
+.endung__variant_mannlich:hover{
+    background-color: #2d98da;
+}
+
+.endung__variant_feminine{
+    background-color:#fc5c65;
+}
+
+.endung__variant_feminine:hover{
+    background-color:#eb3b5a
+}
+
+.endung__variant_neutrale{
+    background-color: #fed330;
+}
+
+.endung__variant_neutrale:hover{
+    background-color: #f7b731;
+}
